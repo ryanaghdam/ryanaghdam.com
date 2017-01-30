@@ -18,7 +18,7 @@ after_success: |
     git checkout -b master
     git add .
     git -c user.name='travis' -c user.email='travis' commit -m 'Travis deploy'
-    git remote add github https://ryanaghdam:$GITHUB_API_KEY@github.com/ryanaghdam/ryanaghdam.github.io.git &2>/dev/null
-    git push github master &2>/dev/null
+    git remote add origin https://ryanaghdam:$GITHUB_API_KEY@github.com/ryanaghdam/ryanaghdam.github.io &2>/dev/null
+    git push origin master &2>/dev/null
     cd "$TRAVIS_BUILD_DIR"
   fi
