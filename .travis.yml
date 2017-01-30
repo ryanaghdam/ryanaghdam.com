@@ -1,0 +1,22 @@
+sudo: false
+language: ruby
+rvm:
+- 2.3.3
+
+install:
+- bundle install
+
+script:
+- bundle exec jekyll build
+
+after_success: |
+  if [ -n "$GITHUB_API_KEY" ]; then
+    cd "$TRAVIS_BUILD_DIR"
+    cd _site
+    git init
+    git checkout -b master
+    git add .
+    git -c user.name='travis' -c user.email='travis' commit -m 'Travis deploy'
+    git push -f -q https://ryanaghdam:$GITHUB_API_KEY@github.com/ryanaghdam/ryanaghdam.github.io master &2>/dev/null
+    cd "$TRAVIS_BUILD_DIR"
+  fi

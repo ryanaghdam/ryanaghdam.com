@@ -1,0 +1,33 @@
+---
+layout: post
+category: misc
+title: December 2014 Everyday Carry
+---
+
+Everyday carry, as of December 2014.
+
+{% include image.html image="EDC_2014-12.jpg" caption="December 2014 everyday carry" %}
+
+[Field Notes][FieldNotes] "Night Sky" limited edition. I (loosely) follow the
+[Bullet Journal][BulletJournal] system with a [Pilot P-700][PilotP700] pen.
+
+My grandfather's old watch with a leather NATO strap.
+
+[iPhone 5s][iPhone] with brown [leather case][iPhoneCase].
+
+J. Crew leather wallet (discontinued).
+
+Keys: The key to my Scion FR-S in a [leather key cover][CarKeyCover], my house
+key in a cover made by [Cicadia Leather Company][HouseKeyCover], and other
+miscellaneous keys, on a brass key ring with leather fob.
+
+And [Blistex].
+
+[Blistex]: http://www.amazon.com/gp/product/B004OSO0K0/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004OSO0K0&linkCode=as2&tag=ryanaghdamc07-20&linkId=MWLP364HCOHX57TI
+[HouseKeyCover]: https://www.etsy.com/shop/CicadaLeatherCompany "Cicada Leather Company"
+[CarKeyCover]: http://www.ebay.com/itm/Leather-Smart-Key-Chain-Case-Cover-Fob-For-TOYOTA-SUBARU-BRZ-/221419140527?pt=Apparel_Merchandise&var=&hash=item338d9bf5af
+[iPhoneCase]: http://www.amazon.com/gp/product/B00F9RZVSU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F9RZVSU&linkCode=as2&tag=ryanaghdamc07-20&linkId=3FSQ3XHJKRKYWV2B
+[iPhone]: http://www.apple.com/iphone-5s/specs/
+[FieldNotes]: http://www.amazon.com/gp/product/B00GC5QTR0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GC5QTR0&linkCode=as2&tag=ryanaghdamc07-20&linkId=QQNDTHGS27AZMTE3
+[BulletJournal]: http://www.bulletjournal.com
+[PilotP700]: http://www.amazon.com/gp/product/B004E2TPYW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004E2TPYW&linkCode=as2&tag=ryanaghdamc07-20&linkId=XSTUHBSLMLZUCZ6F

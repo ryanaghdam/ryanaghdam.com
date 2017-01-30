@@ -1,0 +1,50 @@
+---
+layout: post
+category: misc
+title: August 2014 Everyday Carry
+---
+
+Everyday carry, as of August 2014.
+
+{% include image.html image="EDC_2014-08.jpg" caption="August 2014 everyday carry" %}
+
+Pictured, from top left to bottom right...
+
+Wad of cash folded over my debit card, held together with a couple hair elastics.  ["See, keep the big bills on the outside"][kramer].
+
+A small [L.L. Bean pocket knife][knife] with leather sheath.
+
+J. Crew Factory [leather card holder][wallet]. I keep my credit cards, license, etc. in here.
+
+House key, with a cover made by [Cicada Leather Company][key-cover] and garage key on a leather fob keychain.
+
+[Car][fr-s] key.  I prefer carrying this to the one that has the integrated remote, because it's less bulky.
+
+Mirado [Black Warrior][pencil] pencil.
+
+My grandfather's old watch.  It was in pretty rough shape when I first got it.  I cleaned it up, and replaced the band with a leather NATO strap from [cheapestnatostraps.com][straps]. I rotate this watch with either a [Citizen Skyhawk][skyhawk], or a [Timex military watch][timex].  I just noticed that the link to the Timex watch has "womens" in the URL -- I swear that it's a men's watch!
+
+Work badge, key to filing cabinet, and RSA token.  The carabiner was a gift from my girlfriend -- I've had it for almost ten years; it's the oldest thing that I EDC.
+
+[Zeiss Lens Cleaning wipes][wipes] to clean my glasses or my computer screen at work.
+
+[Blistex lip balm][blistex].
+
+A pack of [Big Red][gum] gum.
+
+Not pictured: iPhone 5s, in a [brown leather case][case].  I've only had the case for a few weeks, I'm hoping that it the patina will make it look a little darker so that it matches the rest of my EDC items.
+
+
+[kramer]: http://www.seinology.com/scripts/script-168.shtml "Seinfeld -- The Reverse Peephole"
+[knife]: http://www.llbean.com/llb/shop/83381 "Double L Pocket Knife"
+[wallet]: http://factory.jcrew.com/mens-clothing/accessories/wallets/PRDOVR~02848/02848.jsp?color*name=brown "J. Crew Factory Leather Card Holder"
+[key-cover]: https://www.etsy.com/shop/CicadaLeatherCompany "Cicada Leather Company"
+[pencil]: http://kk.org/cooltools/archives/10835 "Cool Tools -- Mirado Black Warrior Pencil"
+[straps]: http://cheapestnatostraps.com "Cheapest NATO Straps"
+[skyhawk]: http://www.amazon.com/Citizen-JY0000-53E-Skyhawk-Eco-Drive-Watch/dp/B000ZPMYQI "Citizen Men's JY0000-53E Skyhawk A-T Eco-Drive Watch"
+[timex]: https://www.jcrew.com/womens_category/accessories/watches/PRDOVR~10884/10884.jsp "TIMEX® FOR J.CREW MILITARY WATCH"
+[fr-s]: http://en.wikipedia.org/wiki/Toyota_86 "Scion FR-S"
+[wipes]: http://www.zeiss.com/vision-care/en_de/products-services/other-zeiss-brand-products/lens-cleaning-solutions.html ""Zeiss Lens Cleaning wipes""
+[gum]: http://www.instructables.com/id/Burn-Yourself-with-Big-Red-Gum/
+[blistex]: http://www.blistex.com/index.php?option=com_content&view=article&id=65&Itemid=69
+[case]: http://store.storeimages.cdn-apple.com/4079/as-images.apple.com/is/image/AppleInc/aos/published/images/M/F0/MF041/MF041_AV1_SILVER?wid=800&hei=800&fmt=jpeg&qlt=95&op_sharpen=0&resMode=bicub&op_usm=0.5%2C0.5%2C0%2C0&iccEmbed=0&layer=comp&.v=1400752051659

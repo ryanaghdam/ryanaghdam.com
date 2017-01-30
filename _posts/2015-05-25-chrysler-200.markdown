@@ -1,0 +1,118 @@
+---
+title: 2015 Chrysler 200 LX Review
+layout: post
+category: cars
+excerpt: A Jalopnik-style review of the 2015 Chrysler 200
+---
+
+*Disclaimer:* The Fiat Automotive Group was so eager to have me test their
+fastest vehicle that they laid off half of the employees in my office,
+reorganized management, and flew the some of us out to California to meet our
+new team.
+
+One of my colleagues recently shared an article with me that studied the
+relationship between software architecture and organizational structure. It
+described that the two were strongly related. Bureaucratic organizations often
+produce unfocused and complex software, whereas small teams produce simple
+software. After driving the Chrysler 200 for a week, I’m fairly certain that
+this theory can be applied to automotive engineering.
+
+## Exterior
+
+Parked in the Hertz section of the parking garage at San Francisco
+International Airport, the inoffensively styled Chrysler 200 easily
+blends into the rental fleet.
+
+I get the impression that the design team was a large committee heavily
+influenced by focus groups. The body of the Chrysler 200 has no overlying theme
+or characteristics. It features nothing noteworthy; it is completely neutral.
+There’s nothing inherently wrong with being boring (I’m drinking a glass of
+unsweetened, decaffeinated iced tea right now).  It just feels as if no one
+cared when building the Chrysler 200.
+
+## Interior
+
+Inside the 200 are a variety of plastics: hard, grey, soft, grey, smooth, grey,
+textured, black, grey, fake chrome, and grey. I think Bill from accounting chose the
+interior materials while he was playing Farm Ville with the woman he
+met on ChristianMingle.com.
+
+There are plenty of places to keep your personal effects in the
+cabin. Given the size of the car it is very possible that there could
+be more storage. But that would have required engineering effort.
+
+Another complaint: the housing for the rear-view mirror was notably
+chunky. Outward visibility was hindered.
+
+## Acceleration
+
+Acceleration is slow and jerky due to the nine-speed transmission.
+
+Passing on the highway is difficult. With a different transmission, I think the 200
+car would actually be pretty quick.
+
+## Braking
+
+They worked — I didn’t crash into the back of a bus. Crashing into the
+back of the bus would be interesting. The Chrysler 200 is not.
+
+## Ride
+
+The Chrysler 200 is comfortable. I wouldn’t mind being a passenger in one for a
+long trip.
+
+## Handling
+
+Average mid-sized car handing for an average mid-sized car. Average.
+
+## Gearbox
+
+The nine-speed gearbox was programmed by a software engineering intern
+from UC-something.  She was hired by her aunt.
+
+In her few months at Chrysler, the intern figured out how to work with input
+data from the engine, but not from the accelerator. As a result the Chrysler 200
+likes to stay in the highest gear possible.
+
+At wide-open throttle, downshifts come after a delay. Each gear is
+selected in order, none are skipped. This makes it difficult to safely
+get over to the HOV lane.
+
+Additionally, the selector (which is called Rotary E-Shift) is a
+rotating knob on the center console. It’s unintuitive and very
+frustrating to use when making a three-point turn. It’s a gimmick from
+the marketing department.
+
+## Audio
+
+The Chrysler 200 has a good stereo with easy-to-use Bluetooth.
+
+Unfortunately, that allows your co-workers to play *More Than a Feeling*
+on repeat, while singing along. Also, they only know four words to the
+song: "more than a feeling".
+
+## Toys
+
+The Chrysler 200 has proximity keys. It’s nice to be able to leave my
+keys in my backpack, especially when you have two fobs, an ID tag, and
+a Macy’s advertisement on your rental set of keys.
+
+As mentioned earlier, the 200 features Bluetooth. Paring devices is
+easy and intuitive.  It was much easier than I experienced in other
+cars.
+
+There aren’t many toys in this rental-spec car. There are several
+blank switches to point that out.  Does an electric parking break
+count as a toy if your passenger kept threatening to pull it?
+
+## Value
+
+The Chrysler 200 is a poor effort, designed by a large group of people who exerted minimal effort while waiting for 5:00 PM.
+
+There are just too many other options to deem the Chrysler 200 a good value. Buy
+almost any other mid-size sedan instead, especially the Mazda 6.
+
+Value is subjective. I can only think of two cases where a buyer would choose a
+Chrysler 200 over the competition: the potential buyer works for FCA and worked
+on the committee that produced the Chrysler 200, or the potential buyer wants a
+new car but can only afford a mid-size sedan if it's financed for 96 months.

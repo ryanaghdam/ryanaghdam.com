@@ -1,0 +1,70 @@
+---
+title: "Pencil Review: USA Gold #2 Pencils"
+layout: post
+category: pencils
+excerpt: "A review of the USA Gold #2 pencil"
+---
+
+Before heading into a movie at Assembly Row[^1] we stopped off at K-Mart[^2] to
+buy some soon-to-be contraband bottled water.  Who pays $7 for a soda?  When looking for
+the refrigerated beverages, I found an end cap with pre-sharpened U.S.A Gold #2
+pencils.
+
+I hadn't used one before and they were only $1.49 for a package of ten.  The
+package made them seem great, boasting the following:
+
+1. Premium American cedar
+2. Sharpens evenly
+3. Superior strength lead
+4. Quality erasers
+
+So, does the U.S.A. Gold #2 perform as the package claims?
+
+First off, they are made with cedar which seems to be good quality.  You'll
+find a hint of a cedar scent if you were to hold it up to your nose, something
+I'd suggest doing only in private.  When sharpening[^3], the wood is cut
+smoothly and without any unexpected knots.
+
+{% include image.html image="IMG_0081.jpg" caption="The barrel of the USA Gold #2, showing it's labelling." %}
+
+The few test pencils I have sharpened have done so fairly evenly.  They're not
+perfect (like a Palomino Blackwing) but they're pretty good when the price is
+taken into consideration.
+
+After a day of moderate (by my standards) use, the lead didn't break.  It's
+perfectly adequate.
+
+The erasers work well.  Little graphite is left behind; there is negligible
+smudging; and the eraser dust doesn't snake.
+
+A few additional observations:
+
+- The barrel of the U.S.A. Gold is narrower than other pencils.  It's very
+subtle, but perceptible.
+
+- The imprinting is visibly imperfect.
+
+- Although I don't have a way to test this theory, these pencils feel lighter
+than others.  I assume this is due to the narrower barrel.
+
+{% include image.html image="IMG_0080.jpg" caption="The eraser end of the pencil" %}
+
+To sum up, these are above-average American-made pencils sold at a
+below-average price.  If you're not willing to spend Palomino (so fancy!)[^4]
+money, these are a pretty safe bet.
+
+{% include image.html image="IMG_0082.jpg" caption="Close-up of the pre-sharpened point." %}
+
+[^1]: The theater did _not_ live up to expectations.  Despite being fairly new,
+    it looked abused and wasn't very clean.  Only _some_ of the seats reclined,
+    too. We saw Jurrasic World; it sucked.
+
+[^2]: It was my first and last time going to K-Mart.
+
+[^3]: With an [Alvin Brass Bullet Sharpener][BulletSharpener].
+
+[^4]: Oh, it's so fancy.  [Sew fahunseh][CorvetteReview].
+
+[BulletSharpener]: http://www.amazon.com/Alvin-Brass-Bullet-Sharpener/dp/B001BYK7LQ/ref=sr_1_6?s=office-products&ie=UTF8&qid=1436671681&sr=1-6&keywords=kum&pebp=1436671686135&perid=1NAAQZDV00D0T96S9SW2
+
+[CorvetteReview]: https://youtu.be/S5S_iAvnD2g?t=2m28s
