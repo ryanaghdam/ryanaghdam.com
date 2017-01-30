@@ -11,9 +11,9 @@ script:
 
 after_success:
 - cd _site
+- git init
 - git config user.name "Travis CI"
 - git config user.email "travis@travis-ci.org"
-- git init
 - git add .
 - git commit -m "Travis build"
 - git push --force "https://ryanaghdam:$GITHUB_API_KEY@github.com/ryanaghdam/ryanaghdam.github.io.git" HEAD:master &2>/dev/null
