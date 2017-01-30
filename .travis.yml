@@ -17,6 +17,6 @@ after_success: |
     git checkout -b master
     git add .
     git -c user.name='travis' -c user.email='travis' commit -m 'Travis deploy'
-    git push -f -q https://ryanaghdam:$GITHUB_API_KEY@github.com/ryanaghdam/ryanaghdam.github.io master &2>/dev/null
+    git push --force --quiet https://ryanaghdam:$GITHUB_API_KEY@github.com/ryanaghdam/ryanaghdam.github.io.git master &2>/dev/null
     cd "$TRAVIS_BUILD_DIR"
   fi
