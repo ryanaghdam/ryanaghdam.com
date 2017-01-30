@@ -13,6 +13,7 @@ after_success: |
   if [ -n "$GITHUB_API_KEY" ]; then
     cd "$TRAVIS_BUILD_DIR"
     cd _site
+    git --version
     git init
     git checkout -b master
     git add .
