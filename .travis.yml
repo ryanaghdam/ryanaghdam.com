@@ -9,16 +9,11 @@ install:
 script:
 - bundle exec jekyll build
 
-after_success: |
-  if [ -n "$GITHUB_API_KEY" ]; then
-    cd "$TRAVIS_BUILD_DIR"
-    cd _site
-    git --version
-    git init
-    git checkout -b master
-    git add .
-    git -c user.name='travis' -c user.email='travis' commit -m 'Travis deploy'
-    git remote add origin https://ryanaghdam:$GITHUB_API_KEY@github.com/ryanaghdam/ryanaghdam.github.io &2>/dev/null
-    git push origin master &2>/dev/null
-    cd "$TRAVIS_BUILD_DIR"
-  fi
+after_success:
+- cd _site
+- git config user.name "Travis CI"
+- git config user.email "travis@travis-ci.org"
+- git init
+- git add .
+- git commit -m "Travis build #${TRAVIS_BUILD_NUMBER}"
+- git push --force "https://ryanaghdam:$GITHUB_API_KEY@github.com/ryanaghdam/ryanaghdam.github.io.git" HEAD:master &2>/dev/null

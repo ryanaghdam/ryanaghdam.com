@@ -39,3 +39,4 @@ mini_magick:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - .travis.yml
