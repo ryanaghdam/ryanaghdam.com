@@ -6,6 +6,8 @@ GEM
     colorator (1.1.0)
     ffi (1.9.17)
     forwardable-extended (2.6.0)
+    htmlbeautifier (1.2.1)
+    htmlcompressor (0.3.1)
     jekyll (3.3.1)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -24,6 +26,10 @@ GEM
       mini_magick (>= 3.3)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
+    jekyll-tidy (0.0.1)
+      htmlbeautifier
+      htmlcompressor
+      jekyll
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.13.2)
@@ -52,6 +58,7 @@ DEPENDENCIES
   jekyll (= 3.3.1)
   jekyll-feed (~> 0.6)
   jekyll-minimagick
+  jekyll-tidy
   ryanaghdam-jekyll-theme (~> 1.9.0)
 
 RUBY VERSION

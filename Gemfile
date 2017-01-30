@@ -7,4 +7,5 @@ gem "ryanaghdam-jekyll-theme", "~> 1.9.0"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-minimagick"
+  gem "jekyll-tidy"
 end

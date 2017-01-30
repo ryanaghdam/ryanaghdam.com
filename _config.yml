@@ -29,6 +29,7 @@ permalink: /:categories/:title/
 gems:
   - jekyll-feed
   - jekyll-minimagick
+  - jekyll-tidy
 feed:
   path: rss.xml
 mini_magick:
@@ -36,6 +37,8 @@ mini_magick:
     source: assets/images
     destination: assets/images/thumbnails
     resize: "640x^"
+jekyll_tidy:
+  compress_html: true
 exclude:
   - Gemfile
   - Gemfile.lock
