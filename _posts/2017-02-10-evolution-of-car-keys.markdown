@@ -12,7 +12,7 @@ unable to explain, I decided that I would much rather have a key to an unknown
 The shape is the same.  But that's where the similarities end.  In the past
 half century keys have changed a lot.  Has it been for the better?
 
-{% include image.html image="IMG_5767.JPG" %}
+{% include image.html image="IMG_5767.jpg" %}
 
 The old key is two inches long and three quarters of an inch wide; the new key
 is three and a half inches long, one and a half inches wide, and -- most
@@ -40,7 +40,7 @@ make a spare copy of the key because it came with only one master and one
 valet.  Easy.  A quick ride to the hardware store and five minutes and $4
 later, I had two spares.
 
-{% include image.html image="IMG_5770.JPG" %}
+{% include image.html image="IMG_5770.jpg" %}
 
 Hannah's RAV-4 needed a key copied, too. We needed a spare because "I" lost her
 keys.  The RAV-4's key are nearly idential to those for the FR-S.  They have a
